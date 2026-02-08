@@ -1,0 +1,15 @@
+Animal,Speed (km/h),Weight (kg),Living Area
+Cheetah,120.0,72.0,Savanna
+Lion,80.0,190.0,Savanna
+Elephant,40.0,6000.0,Savanna
+Giraffe,60.0,1200.0,Savanna
+Tiger,65.0,220.0,Jungle
+Gorilla,40.0,160.0,Jungle
+Polar Bear,40.0,450.0,Arctic
+Penguin,10.0,35.0,Antarctic
+Eagle,160.0,6.5,Mountains
+Dolphin,60.0,150.0,Ocean
+Sloth,0.27,5.0,Jungle
+Kangaroo,70.0,85.0,Grassland
+Dog,30.0,30.0,Farmland
+Cat,20,10,Catland
